@@ -16,11 +16,11 @@ data structure :
    -models
     restaurants.js{
       this file contains mongoose document schema, it's needed to get data from the database
-    },
+    }
    -routes
     restaurants.js{
       this file contains the GET REQUEST
-    },
+    }
   -app.js{
    equals to MainActivity
   }
